@@ -1,0 +1,8 @@
+// action type
+export const GET_ARTICLES = "GET_ARTICLES";
+export const DELETE_ARTICLE = "DELETE_ARTICLE";
+export const ADD_ARTICLE = "ADD_ARTICLE";
+export const GET_SINGLE_ARTICLE = "GET_SINGLE_ARTICLE";
+export const UPDATE_ARTICLE = "UPDATE_ARTICLE"; 
+export const GET_SUJETS = "GET_SUJETS";
+export const GET_JOURNALISTES = "GET_JOURNALISTES";
